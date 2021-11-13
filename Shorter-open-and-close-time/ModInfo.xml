@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-  <ModInfo>
-    <Name value="Shorter_open_and_close_time" />
-    <Description value="Trades will open at 4am and cloce at midnight." />
-    <Author value="SBSTN" />
-    <Version value="19.6" compat="A19,A18" />
-  </ModInfo>
-</xml>
