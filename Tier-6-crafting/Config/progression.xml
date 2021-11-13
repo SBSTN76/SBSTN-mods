@@ -1,0 +1,6 @@
+<config>
+	<set xpath="/progression/perks/perk/effect_group/passive_effect[@name='CraftingTier' and @value='1,2,3,4,4']/@value">1,2,3,4,5</set>
+	<set xpath="/progression/perks/perk[@name='perkLightArmor']/effect_group/passive_effect[@name='CraftingTier'][@operation='base_add']/@value">1,5</set>
+	<set xpath="/progression/perks/perk[@name='perkHeavyArmor']/effect_group/passive_effect[@name='CraftingTier'][@operation='base_add']/@value">1,5</set>
+</config>
+

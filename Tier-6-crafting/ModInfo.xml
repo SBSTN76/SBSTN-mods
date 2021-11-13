@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="Tier_6_crafting" />
+    <Description value="This will allow you to craft tier 6 items" />
+    <Author value="SBSTN" />
+    <Version value="19.6" compat="A19,A18" />
+  </ModInfo>
+</xml>
