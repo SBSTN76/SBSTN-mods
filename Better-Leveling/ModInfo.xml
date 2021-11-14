@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="Better_Leveling" />
+    <Description value="You will get 2 skill points per level and leveling will be faster" />
+    <Author value="SBSTN" />
+    <Version value="19.6" compat="A19,A18" />
+  </ModInfo>
+</xml>
